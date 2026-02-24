@@ -1,0 +1,3 @@
+COLLIBRA_HOSTNAME=yourinstance.collibra.com
+COLLIBRA_USERNAME=your_username
+COLLIBRA_PASSWORD=your_password
