@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "defaults": {
+    "headless":  true,
+    "timeoutMs": 600000,
+    "retries":   2
+  },
+  "sources": [
+    {
+      "url":  "https://data.cms.gov/data.json",
+      "name": "CMS Open Data"
+    }
+  ]
+}
